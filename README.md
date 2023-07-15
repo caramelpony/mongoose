@@ -60,3 +60,4 @@ Install a MongoDB database to work with. (Two Methods)
     3. Move to [Part 3](#Part-3:-Connecting-to-MongoDB).
 
 #### Part 3: Connecting to MongoDB
+There are two steps to consider here, connecting to MongoDB using our Compass application to manage and view our data, and also providing the proper connection string to our application using **dotenv** which we will configure shortly.
