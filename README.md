@@ -7,7 +7,7 @@
 - [ ] | Create Client to simulate player
 
 ### Pre-Requisites
-- [ ] | [MongoDB Local DB](https://www.mongodb.com/)
+- [ ] | [MongoDB Instance](https://www.mongodb.com/)
 - [x] | [Mongoose Library (Pre-Installed)](https://www.npmjs.com/package/mongoose)
 - [x] | [Mongoose Find or Create Library (Pre-Installed)](https://www.npmjs.com/package/mongoose-findorcreate)
 - [x] | [DotEnv Library](https://www.npmjs.com/package/dotenv)
