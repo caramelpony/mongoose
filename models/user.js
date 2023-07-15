@@ -1,6 +1,9 @@
 const mongoose = require('mongoose');
 const findOrCreate = require('mongoose-findorcreate');
 
+//Import Item type
+const Item = require('./models/item');
+
 const userSchema = new mongoose.Schema({
   id: {
     type: Number,
@@ -8,6 +11,8 @@ const userSchema = new mongoose.Schema({
   },
   username: String,
   avatarURL: String,
+  activeItem: Item,
+  inventory: Array,
   data: Array
 });
 

@@ -1,6 +1,11 @@
 # MongoDB Example Project
 ## By: [caramelpony](https://github.com/caramelpony/)
 
+### TODO Still:
+- [ ] | Implement Express API for handling data
+- [ ] | Implement WS to simulate players connecting
+- [ ] | Create Client to simulate player
+
 ### Pre-Requisites
 - [ ] | [MongoDB Local DB](https://www.mongodb.com/)
 - [x] | [Mongoose Library (Pre-Installed)](https://www.npmjs.com/package/mongoose)
